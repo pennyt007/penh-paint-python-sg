@@ -94,6 +94,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'penh-paint-sidebargrid',
         'HOST': 'localhost',
+        #'HOST': 'penh-mysql',
         'USER': 'root',
         'PASSWORD': 'MySQL2024'
     }
